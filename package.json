@@ -1,0 +1,22 @@
+{
+  "name": "landings_from_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandriver/landings_from_templates.git"
+  },
+  "author": "Daniil Reshetnyak & Artem Valeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandriver/landings_from_templates/issues"
+  },
+  "homepage": "https://github.com/dandriver/landings_from_templates#readme",
+  "dependencies": {
+    "webpack": "^4.15.1"
+  }
+}
